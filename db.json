@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "itemName": "Coke",
+      "boh": 25,
+      "moh": 54,
+      "ldu": 6,
+      "orderQty": 7
+    },
+    {
+      "id": 2,
+      "itemName": "Pepsi",
+      "boh": 12,
+      "moh": 32,
+      "ldu": 12,
+      "orderQty": ""
+    },
+    {
+      "id": 3,
+      "itemName": "Water",
+      "boh": 20,
+      "moh": 50,
+      "ldu": 24,
+      "orderQty": ""
+    },
+    {
+      "id": 4,
+      "itemName": "Candy",
+      "boh": 15,
+      "moh": 80,
+      "ldu": 1,
+      "orderQty": ""
+    },
+    {
+      "id": 5,
+      "itemName": "Donuts",
+      "boh": 2,
+      "moh": 6,
+      "ldu": 1,
+      "orderQty": ""
+    },
+    {
+      "id": 6,
+      "itemName": "Milk",
+      "boh": "1000",
+      "moh": 6,
+      "ldu": 2,
+      "orderQty": ""
+    }
+  ]
+}
